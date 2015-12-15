@@ -1,0 +1,8 @@
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\bin\Debug\wifi_tools.exe
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\bin\Debug\wifi_tools.pdb
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.csprojResolveAssemblyReference.cache
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.Properties.Resources.resources
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.WelcomeForm.resources
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.csproj.GenerateResource.Cache
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.exe
+C:\Users\cui\Desktop\wifi_tools\wifi_tools\obj\Debug\wifi_tools.pdb
